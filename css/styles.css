@@ -1,0 +1,30 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+h1{
+    background-color: #663200;
+    color: #fff;
+}
+
+img{
+    float: right;
+    border-end-end-radius: 39%;
+    border-top-left-radius: 39%;
+}
+
+ul.circle{
+    list-style-type: circle;
+}
+
+.ctt {
+    background-color:#f5f5dd;
+    padding:1%;
+    max-width: 480px;
+    border-radius: 5%;
+}
+
+a{
+    color: #5c4018;
+}
